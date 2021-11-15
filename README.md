@@ -1,4 +1,4 @@
-# facebook
+# facebook clone with firebase
 
 A new Flutter project.
 
